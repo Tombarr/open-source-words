@@ -1,0 +1,1 @@
+fullcalendar a full sized drag drop event calendar jquery plugin project website and demos documentation support contributing changelog license

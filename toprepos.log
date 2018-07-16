@@ -1,0 +1,50 @@
+2018-07-10 20:12:21 [scrapy.utils.log] INFO: Scrapy 1.5.0 started (bot: scrapybot)
+2018-07-10 20:12:21 [scrapy.crawler] INFO: Overridden settings: {'SPIDER_LOADER_WARN_ONLY': True, 'FEED_FORMAT': 'json', 'FEED_URI': 'repos.json'}
+2018-07-10 20:12:21 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.corestats.CoreStats']
+2018-07-10 20:12:21 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2018-07-10 20:12:21 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2018-07-10 20:12:21 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2018-07-10 20:12:21 [scrapy.core.engine] INFO: Spider opened
+2018-07-10 21:07:09 [scrapy.core.engine] INFO: Closing spider (finished)
+2018-07-10 21:07:09 [scrapy.extensions.feedexport] INFO: Stored json feed (1000 items) in: repos.json
+2018-07-10 21:07:09 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 39792,
+ 'downloader/request_count': 100,
+ 'downloader/request_method_count/GET': 100,
+ 'downloader/response_bytes': 1792212,
+ 'downloader/response_count': 100,
+ 'downloader/response_status_count/200': 100,
+ 'finish_reason': 'finished',
+ 'item_scraped_count': 1000,
+ 'log_count/DEBUG': 1101,
+ 'log_count/INFO': 23,
+ 'memusage/max': 70443008,
+ 'memusage/startup': 46501888,
+ 'response_received_count': 100,
+ 'scheduler/dequeued': 100,
+ 'scheduler/dequeued/memory': 100,
+ 'scheduler/enqueued': 100,
+ 'scheduler/enqueued/memory': 100}
+2018-07-10 21:07:09 [scrapy.core.engine] INFO: Spider closed (finished)

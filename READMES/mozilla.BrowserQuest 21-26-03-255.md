@@ -1,0 +1,1 @@
+browserquest browserquest is a html5 javascript multiplayer game experiment documentation documentation is located in client and server directories license code is licensed under mpl 2 0 content is licensed under cc by sa 3 0 see the license file for details credits created by little workshop franck lecollinet whatthefranck guillaume lecollinet glecollinet

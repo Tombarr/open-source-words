@@ -1,0 +1,22 @@
+Success on first attempt
+
+<raw.githubusercontent.com/electron/electron/master/README.md> (200)
+Writing ./READMES/electron.electron.md
+
+Success after several attempts
+
+<raw.githubusercontent.com/torvalds/linux/master/README.md> (404)
+<raw.githubusercontent.com/torvalds/linux/master/readme.md> (404)
+<raw.githubusercontent.com/torvalds/linux/master/Readme.md> (404)
+<raw.githubusercontent.com/torvalds/linux/master/README> (200)
+Writing ./READMES/torvalds.linux.
+
+No success :-(
+
+<raw.githubusercontent.com/resume/resume.github.com/master/README.md> (404)
+<raw.githubusercontent.com/resume/resume.github.com/master/readme.md> (404)
+<raw.githubusercontent.com/resume/resume.github.com/master/Readme.md> (404)
+<raw.githubusercontent.com/resume/resume.github.com/master/README> (404)
+<raw.githubusercontent.com/resume/resume.github.com/master/README.rst> (404)
+<raw.githubusercontent.com/resume/resume.github.com/master/README.txt> (404)
+<raw.githubusercontent.com/resume/resume.github.com/master/README.textfile> (404)

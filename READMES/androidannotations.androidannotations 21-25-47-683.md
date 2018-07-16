@@ -1,0 +1,1 @@
+fast android development easy maintenance androidannotations is an open source framework that speeds up android development it takes care of the plumbing and lets you concentrate on whats really important by simplifying your code it facilitates its maintenance documentation

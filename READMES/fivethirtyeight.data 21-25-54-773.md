@@ -1,0 +1,1 @@
+see https data fivethirtyeight com for a list of the data and code weve published unless otherwise noted our data sets are available under the creative commons attribution 4 0 international license and the code is available under the mit license if you find this information useful please let us know

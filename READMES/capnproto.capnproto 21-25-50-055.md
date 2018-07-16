@@ -1,0 +1,1 @@
+unix windows capn proto is an insanely fast data interchange format and capability based rpc system think json except binary or think protocol buffers except faster in fact in benchmarks capn proto is infinity times faster than protocol buffers read more

@@ -1,0 +1,1 @@
+a resource for doing things au naturel youmightnotneedjquery com

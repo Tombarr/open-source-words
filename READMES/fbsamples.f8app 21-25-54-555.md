@@ -1,0 +1,1 @@
+f8 app 2017 this is the entire source code of the official f8 app of 2017 available on google play and the app store how we build it weve created a series of tutorials at http makeitopen com that explain how we built the app and that dive into how we used react native redux relay graphql and more check out how to set the app up for local development here

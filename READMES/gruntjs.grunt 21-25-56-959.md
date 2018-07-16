@@ -1,0 +1,1 @@
+grunt the javascript task runner documentation visit the gruntjs com website for all the things support contributing before you make an issue please read our contributing guide you can find the grunt team in grunt on irc freenode net release history see the changelog license mit

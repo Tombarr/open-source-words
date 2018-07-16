@@ -1,0 +1,1 @@
+this is the home of ‘developing backbone js applications an in progress book about the backbone js framework for structuring javascript applications it is released under a creative commons attribution noncommercial no derivative works 3 0 united states license and is currently available for early purchase via oreilly if you would like to support the project

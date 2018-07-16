@@ -1,0 +1,1 @@
+homebrew legacy this repository has been deprecated and split into two repositories homebrew formulae packages homebrew homebrew core former contents of library formula homebrew package manager homebrew brew please note you dont need to move pull requests or issues over from this we will handle all migrations
