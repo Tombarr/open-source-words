@@ -1,5 +1,7 @@
 # Intro
 
+Read about this project on Medium: [Open Source Words – Part 2](https://medium.com/@tbarrasso/open-source-words-part-2-ce1077305a32)
+
 Open Source Words is a project that:
 
 - Uses [Scrapy](https://scrapy.org/) to collect repository information from [GitHub Search](https://github.com/search) results
