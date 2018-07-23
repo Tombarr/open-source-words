@@ -1,0 +1,1 @@
+Weve Moved! Material Design Lite v2 has evolved into a new project: Material Components for the web. Please visit us in our new repository!

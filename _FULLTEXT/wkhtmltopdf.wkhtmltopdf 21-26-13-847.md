@@ -1,0 +1,1 @@
+wkhtmltopdf and wkhtmltoimage wkhtmltopdf and wkhtmltoimage are command line tools to render html into pdf and various image formats using the qt webkit rendering engine these run entirely headless and do not require a display or display service see http wkhtmltopdf org for updated documentation

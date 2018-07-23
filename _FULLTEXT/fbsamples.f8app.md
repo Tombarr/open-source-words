@@ -1,0 +1,1 @@
+F8 App 2017 This is the entire source code of the official F8 app of 2017, available on Google Play and the App Store. How We Build It Weve created a series of tutorials at http://makeitopen.com/ that explain how we built the app, and that dive into how we used React Native, Redux, Relay, GraphQL, and more. Check out how to set the app up for local development here!

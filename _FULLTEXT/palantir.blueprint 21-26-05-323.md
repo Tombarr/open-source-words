@@ -1,0 +1,1 @@
+blueprint github pages this branch contains the built assets for blueprints static landing page and documentation site to make contributions and see the source code go to the repositorys default branch

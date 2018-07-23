@@ -40,7 +40,7 @@ function render(words) {
   }
 }
 
-fetch('./total_words_filtered.json')
+fetch('./bigram_words.json')
   .then(function(response) {
     return response.json();
   })

@@ -1,0 +1,1 @@
+Project V Project V is a set of network tools that help you to build your own computer network. It secures your network connections and thus protects your privacy. See our website for more information. License The MIT License (MIT) Credits This repo relies on the following third-party projects: In production: miekg/dns gorilla/websocket For testing only: h12w/socks

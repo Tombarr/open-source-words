@@ -1,0 +1,1 @@
+javascript patterns project page at http shichuan github io javascript patterns

@@ -1,0 +1,1 @@
+darknet darknet is an open source neural network framework written in c and cuda it is fast easy to install and supports cpu and gpu computation for more information see the darknet project website for questions or issues please use the google group

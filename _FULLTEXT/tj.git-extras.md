@@ -1,0 +1,1 @@
+Git Extras Little git extras. Screencasts Just getting started? Check out these screencasts: introduction -- covering git-ignore, git-setup, git-changelog, git-release, git-effort and more Installation See Installation page. Commands Go to Commands page for basic usage and examples. GIT utilities -- repo summary, repl, changelog population, author commit percentages and more

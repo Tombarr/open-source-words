@@ -1,0 +1,1 @@
+Fast Android Development. Easy maintenance. AndroidAnnotations is an Open Source framework that speeds up Android development. It takes care of the plumbing, and lets you concentrate on whats really important. By simplifying your code, it facilitates its maintenance. Documentation

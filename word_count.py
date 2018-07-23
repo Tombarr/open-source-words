@@ -17,7 +17,7 @@ def take(n, iterable):
 def removeNonAscii(s):
     return "".join(i for i in s if ord(i) < 128)
 
-TEXT_DIR = "./TEXT"
+TEXT_DIR = "./_TEXT"
 
 READMES = sorted([f for f in listdir(TEXT_DIR) if isfile(join(TEXT_DIR, f))])
 

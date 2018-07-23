@@ -1,0 +1,1 @@
+JavaScript Patterns Project page at: http://shichuan.github.io/javascript-patterns

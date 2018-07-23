@@ -1,0 +1,1 @@
+Shadowsocks for iOS and OSX iOS iOS Version OSX OSX Version License The project is released under the terms of GPLv3. Bugs and Issues Please visit issue tracker Mailing list: http://groups.google.com/group/shadowsocks Also see troubleshooting

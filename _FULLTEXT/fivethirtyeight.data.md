@@ -1,0 +1,1 @@
+See https://data.fivethirtyeight.com/ for a list of the data and code weve published. Unless otherwise noted, our data sets are available under the Creative Commons Attribution 4.0 International License, and the code is available under the MIT License. If you find this information useful, please let us know.

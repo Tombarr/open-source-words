@@ -1,0 +1,1 @@
+Please use wiki/wiki, since that is freely maintainable.

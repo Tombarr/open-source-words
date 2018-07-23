@@ -1,0 +1,1 @@
+dashing dashing is a sinatra based framework that lets you build beautiful dashboards it looks especially great on tvs check out the homepage note dashing is no longer being actively maintained read about it here there is a fork of the project being maintained at at https github com dashing io dashing license distributed under the mit license

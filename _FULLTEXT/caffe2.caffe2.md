@@ -1,0 +1,1 @@
+Source code now lives in the PyTorch repository. Caffe2 Caffe2 is a lightweight, modular, and scalable deep learning framework. Building on the original Caffe, Caffe2 is designed with expression, speed, and modularity in mind. Learn more about Caffe2 on the caffe2.ai website

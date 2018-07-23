@@ -1,0 +1,1 @@
+Nimbus is an iOS framework whose feature set grows only as fast as its documentation. Getting Started Visit the Nimbus website at nimbuskit.info. Add Nimbus to your project. Follow Nimbus development through its version history. See the latest API diffs. Read the Three20 Migration Guide. Ask questions and get updates via the Nimbus mailing list.

@@ -1,0 +1,1 @@
+shadowsocks for ios and osx ios ios version osx osx version license the project is released under the terms of gplv3 bugs and issues please visit issue tracker mailing list http groups google com group shadowsocks also see troubleshooting

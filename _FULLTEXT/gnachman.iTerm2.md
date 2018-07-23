@@ -1,0 +1,1 @@
+This site hosts code for iTerm2. File a bug report here! Issues are on Gitlab because Github doesnt support issue attachments.

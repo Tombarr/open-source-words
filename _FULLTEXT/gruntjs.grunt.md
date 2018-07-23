@@ -1,0 +1,1 @@
+Grunt: The JavaScript Task Runner Documentation Visit the gruntjs.com website for all the things. Support / Contributing Before you make an issue, please read our Contributing guide. You can find the grunt team in #grunt on irc.freenode.net. Release History See the CHANGELOG. License MIT

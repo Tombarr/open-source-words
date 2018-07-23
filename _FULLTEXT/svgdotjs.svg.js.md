@@ -1,0 +1,1 @@
+SVG.js A lightweight library for manipulating and animating SVG, without any dependencies. SVG.js is licensed under the terms of the MIT License. Installation Node: npm install svg.js Yarn: yarn add svg.js Bower: bower install svg.js Cdnjs: https://cdnjs.com/libraries/svg.js Documentation Check https://svgdotjs.github.io to learn more.

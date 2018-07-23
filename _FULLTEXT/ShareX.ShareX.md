@@ -1,0 +1,1 @@
+ShareX Check getsharex.com for more info.

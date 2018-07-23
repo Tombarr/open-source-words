@@ -1,0 +1,1 @@
+alphagoreplication a replication of deepminds 2016 nature publication mastering the game of go with deep neural networks and tree search details of which can be found on their website
