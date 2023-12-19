@@ -257,6 +257,7 @@ Name    |    Description
 [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW) | written in less than 100 lines of code, this web app has tons of vulns, great for teaching
 [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) | covers the OWASP top 10 vulns
 [Google Gruyere](https://google-gruyere.appspot.com/) | host of challenges on this cheesy web app
+[Pentest-Ground](https://pentest-ground.com/) | playground with vuln web apps
 
 ### Vulnerable OS
 Name    |    Description
